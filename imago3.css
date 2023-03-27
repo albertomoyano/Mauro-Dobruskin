@@ -6,31 +6,21 @@ A:hover {color:#400000 ; text-shadow:none ;}
 A:active {color:#C00000 ; text-shadow:none ;}
 
 body {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     background: #fffcf5;
 }
 
 span.textrm {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
 }
 
 span.textsf {
-     font-family: "DejaVu Sans", "Bitstream Vera Sans",
-        Geneva, Verdana, sans-serif ;
+     font-family: "IBM Plex Sans Condensed", sans-serif ;
 }
 
 div.book, h1, h2, h3, h4, h5, h6, span.paragraph, span.subparagraph
 {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: #800000 ;
     text-shadow: none ;
 }
@@ -43,19 +33,13 @@ h1, h2 {
 }
 
 div.abstracttitle {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: black ;
     text-shadow: none ;
 }
 
 span.abstractrunintitle {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: black ;
     text-shadow: none ;
 }
@@ -74,10 +58,7 @@ div.abstract { font-size: 100% }
 }
 
 div.sidebartitle{
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
@@ -94,20 +75,14 @@ div.sidebartitle{
 }
 
 div.exampletitle{
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
 }
 
 div.fancyvrblabel{
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
@@ -150,17 +125,11 @@ div.floatrow figure { border: none ; }
 figure figure { border: none ; }
 
 nav.toc, nav.lof, nav.lot, nav.lol {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
 }
 
 div.sidetoccontainer {
-    font-family: "Linux Libertine O", "Hoefler Text", "Garamond",
-        "Bembo", "Janson", "TeX Gyre Pagella", "Palatino",
-        "Liberation Serif", "Nimbus Roman No 9 L",  "FreeSerif", Times,
-        "Times New Roman", serif;
+    font-family: Georgia, serif;
     background-image: linear-gradient(to bottom, #fffcf5, #C0C0C0);
 }
 
