@@ -3,8 +3,7 @@
   Copyright 2016-2022 Brian Dunn — BD Tech Concepts LLC
 */
 
-/*@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,600;1,400;1,600&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,600;1,400;1,600&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,400;0,600;1,400;1,600&family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 
 /* a fix for older browsers: */
@@ -40,13 +39,13 @@ a.toctheorem {margin-left: 0em}
 a.toclstlisting {margin-left: 0em}
 
 body {
-    font-family: "IBM Ples Serif", serif;
+    font-family: "Noto Serif", serif;
     background: #FAF7F4 ;
     color: black ;
     margin:0em ;
     padding:0em ;
-    font-size: 22px ;
-    line-height: 1.2 ;
+    font-size: 20px ;
+    line-height: 1.3 ;
 }
 
 p {margin: 1.5ex 0em 1.5ex 0em ;}
@@ -81,7 +80,7 @@ span.textnormal, div.textnormal {
     font-style: normal;
     font-variant: normal;
     font-variant-numeric: normal ;
-    font-family: "IBM Ples Serif", serif;
+    font-family: "Noto Serif", serif;
 }
 
 span.textmd, div.textmd { font-weight: normal; }
@@ -105,7 +104,7 @@ span.textulc, div.textulc {
 span.textsl, div.textsl { font-style: oblique; }
 
 span.textrm, div.textrm {
-    font-family: "IBM Ples Serif", serif;
+    font-family: "Noto Serif", serif;
 }
 
 span.textsf, div.textsf {
@@ -1317,7 +1316,7 @@ img.lateximage{
 }
 
 div.sidetoccontainer {
-    font-family: "IBM Ples Serif", serif;
+    font-family: "Noto Serif", serif;
     float: left ;
     width: 19%; /* room for border-right next to 80% main */
     margin: 0pt 0em 3ex 0pt ;
