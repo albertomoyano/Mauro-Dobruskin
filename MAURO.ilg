@@ -78,7 +78,7 @@ Scanning input file MAURO.idx....
 !! Input index error (file = MAURO.idx, line = 253):
    -- Extra `@' at position 60 of first argument.
 
-!! Input index error (file = MAURO.idx, line = 259):
+!! Input index error (file = MAURO.idx, line = 260):
    -- Extra `@' at position 27 of first argument.
 
 !! Input index error (file = MAURO.idx, line = 262):
@@ -128,7 +128,7 @@ Scanning input file MAURO.idx....
 !! Input index error (file = MAURO.idx, line = 428):
    -- Extra `@' at position 104 of first argument.
 done (396 entries accepted, 46 rejected).
-Sorting entries......done (3751 comparisons).
-Generating output file MAURO.ind....done (189 lines written, 0 warnings).
+Sorting entries......done (3927 comparisons).
+Generating output file MAURO.ind....done (187 lines written, 0 warnings).
 Output written in MAURO.ind.
 Transcript written in MAURO.ilg.

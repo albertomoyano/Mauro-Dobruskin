@@ -686,7 +686,6 @@ INPUT ./figura3x.png
 INPUT ./figura3x.png
 INPUT ./figura3x.png
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-regular.luc
-INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-italic.luc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm

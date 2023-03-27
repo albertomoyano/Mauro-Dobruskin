@@ -25,4 +25,4 @@
 \contentsline {subsection}{\numberline {3.2.2}Periodismo de guerra}{51}{subsection.3.2.2}%
 \contentsline {chapter}{\emph {Post Scriptum}}{117}{chapter*.45}%
 \contentsline {chapter}{Bibliografía}{119}{chapter*.46}%
-\contentsline {chapter}{Colofón}{127}{chapter*.47}%
+\contentsline {chapter}{Colofón}{125}{chapter*.47}%
