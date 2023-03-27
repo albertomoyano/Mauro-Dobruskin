@@ -1,0 +1,28 @@
+\selectlanguage *{spanish}
+\contentsline {chapter}{Presentación}{iii}{chapter*.2}%
+\contentsline {chapter}{Legales}{vii}{chapter*.6}%
+\contentsline {chapter}{Agradecimientos}{ix}{chapter*.8}%
+\contentsline {chapter}{Pre texto}{xi}{chapter*.9}%
+\contentsline {chapter}{Introducción}{xiii}{chapter*.10}%
+\contentsline {chapter}{\numberline {1}Estado de la cuestión y consideraciones teórico-metodológicas}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Antecedentes sobre la temática}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Enfoque conceptual}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}El campo periodístico}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}La credibilidad}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}La legitimidad del campo periodístico}{14}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Autonomización del campo periodístico}{15}{subsection.1.2.4}%
+\contentsline {chapter}{\numberline {2}Descripción del campo periodístico en la Argentina (2009-2015)}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Los periodistas y el fenómeno editorial}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}El contexto político del conflicto en la mirada de la prensa}{22}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Acerca del campo periodístico}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Propuesta de clasificación de periodistas según su lugar en el campo}{26}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Categorías de periodistas}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Pseudoperiodistas}{29}{subsection.2.3.3}%
+\contentsline {chapter}{\numberline {3}Análisis de contenido del \emph {corpus} bibliográfico}{31}{chapter.3}%
+\contentsline {section}{\numberline {3.1}\emph {Corpus} de análisis}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Periodización}{33}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Etapa preparatoria}{34}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Periodismo de guerra}{51}{subsection.3.2.2}%
+\contentsline {chapter}{\emph {Post Scriptum}}{117}{chapter*.45}%
+\contentsline {chapter}{Bibliografía}{119}{chapter*.46}%
+\contentsline {chapter}{Colofón}{127}{chapter*.47}%

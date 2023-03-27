@@ -1,0 +1,14 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'MAURO_html.blg'
+[42] biber:340> INFO - === lun mar 27, 2023, 07:49:31
+[50] Biber.pm:418> INFO - Reading 'MAURO_html.bcf'
+[166] Biber.pm:972> INFO - Found 118 citekeys in bib section 0
+[173] Biber.pm:4383> INFO - Processing section 0
+[179] Biber.pm:4574> INFO - Looking for bibtex file 'MAURO.bib' for section 0
+[182] bibtex.pm:1713> INFO - LaTeX decoding ...
+[246] bibtex.pm:1518> INFO - Found BibTeX data source 'MAURO.bib'
+[606] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[606] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[606] Biber.pm:4203> INFO - Sorting list 'nyvt/global//global/global' of type 'entry' with template 'nyvt' and locale 'es-ES'
+[664] bbl.pm:654> INFO - Writing 'MAURO_html.bbl' with encoding 'UTF-8'
+[698] bbl.pm:757> INFO - Output to MAURO_html.bbl

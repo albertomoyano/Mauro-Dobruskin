@@ -1,0 +1,134 @@
+This is makeindex, version 2.16 [TeX Live 2022] (kpathsea + Thai support).
+Scanning input file MAURO.idx....
+!! Input index error (file = MAURO.idx, line = 29):
+   -- Extra `@' at position 218 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 42):
+   -- Extra `@' at position 115 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 44):
+   -- Extra `@' at position 78 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 48):
+   -- Extra `@' at position 55 of first argument.
+!! Input index error (file = MAURO.idx, line = 49):
+   -- Extra `@' at position 140 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 51):
+   -- Extra `@' at position 146 of first argument.
+!! Input index error (file = MAURO.idx, line = 52):
+   -- Extra `@' at position 171 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 143):
+   -- Extra `@' at position 168 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 147):
+   -- Extra `@' at position 75 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 167):
+   -- Extra `@' at position 78 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 170):
+   -- Extra `@' at position 115 of first argument.
+!! Input index error (file = MAURO.idx, line = 171):
+   -- Extra `@' at position 78 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 174):
+   -- Extra `@' at position 58 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 177):
+   -- Extra `@' at position 58 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 181):
+   -- Extra `@' at position 104 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 183):
+   -- Extra `@' at position 276 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 189):
+   -- Extra `@' at position 77 of first argument.
+!! Input index error (file = MAURO.idx, line = 190):
+   -- Extra `@' at position 93 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 193):
+   -- Extra `@' at position 60 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 197):
+   -- Extra `@' at position 119 of first argument.
+!! Input index error (file = MAURO.idx, line = 198):
+   -- Extra `@' at position 115 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 210):
+   -- Extra `@' at position 127 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 220):
+   -- Extra `@' at position 134 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 223):
+   -- Extra `@' at position 119 of first argument.
+!! Input index error (file = MAURO.idx, line = 224):
+   -- Extra `@' at position 81 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 245):
+   -- Extra `@' at position 81 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 250):
+   -- Extra `@' at position 119 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 253):
+   -- Extra `@' at position 60 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 259):
+   -- Extra `@' at position 27 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 262):
+   -- Extra `@' at position 27 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 271):
+   -- Extra `@' at position 128 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 273):
+   -- Extra `@' at position 54 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 291):
+   -- Extra `@' at position 116 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 307):
+   -- Extra `@' at position 56 of first argument.
+!! Input index error (file = MAURO.idx, line = 308):
+   -- Extra `@' at position 276 of first argument.
+!! Input index error (file = MAURO.idx, line = 309):
+   -- Extra `@' at position 41 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 318):
+   -- Extra `@' at position 57 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 332):
+   -- Extra `@' at position 61 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 350):
+   -- Extra `@' at position 194 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 398):
+   -- Extra `@' at position 128 of first argument.
+!! Input index error (file = MAURO.idx, line = 399):
+   -- Extra `@' at position 27 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 411):
+   -- Extra `@' at position 172 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 420):
+   -- Extra `@' at position 172 of first argument.
+!! Input index error (file = MAURO.idx, line = 421):
+   -- Extra `@' at position 55 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 424):
+   -- Extra `@' at position 119 of first argument.
+
+!! Input index error (file = MAURO.idx, line = 428):
+   -- Extra `@' at position 104 of first argument.
+done (396 entries accepted, 46 rejected).
+Sorting entries......done (3751 comparisons).
+Generating output file MAURO.ind....done (189 lines written, 0 warnings).
+Output written in MAURO.ind.
+Transcript written in MAURO.ilg.

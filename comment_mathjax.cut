@@ -1,0 +1,11 @@
+\CustomizeMathJax{\newcommand{\toprule}[1][]{\hline}}
+\CustomizeMathJax{\let\midrule\toprule}
+\CustomizeMathJax{\let\bottomrule\toprule}
+\CustomizeMathJax{\def\LWRbooktabscmidruleparen(#1)#2{}}
+\CustomizeMathJax{\newcommand{\LWRbooktabscmidrulenoparen}[1]{}}
+\CustomizeMathJax{\newcommand{\cmidrule}[1][]{%
+    \ifnextchar(\LWRbooktabscmidruleparen\LWRbooktabscmidrulenoparen%
+}}
+\CustomizeMathJax{\newcommand{\morecmidrules}{}}
+\CustomizeMathJax{\newcommand{\specialrule}[3]{\hline}}
+\CustomizeMathJax{\newcommand{\addlinespace}[1][]{}}
