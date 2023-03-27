@@ -641,6 +641,11 @@ INPUT ./MAURO.out
 OUTPUT MAURO.pdf
 INPUT ./MAURO.out
 OUTPUT MAURO.out
+INPUT ./foto-tapa.png
+INPUT ./foto-tapa.png
+INPUT ./foto-tapa.png
+INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-bold.luc
 INPUT ./MAURO.toc
@@ -659,11 +664,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bolditalic.luc
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT MAURO.toc
-INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc
-INPUT ./foto-tapa.png
 INPUT ./foto-tapa.png
 INPUT ./foto-tapa.png
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc

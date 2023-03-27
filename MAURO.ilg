@@ -129,6 +129,6 @@ Scanning input file MAURO.idx....
    -- Extra `@' at position 104 of first argument.
 done (396 entries accepted, 46 rejected).
 Sorting entries......done (3927 comparisons).
-Generating output file MAURO.ind....done (187 lines written, 0 warnings).
+Generating output file MAURO.ind....done (184 lines written, 0 warnings).
 Output written in MAURO.ind.
 Transcript written in MAURO.ilg.

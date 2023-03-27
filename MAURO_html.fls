@@ -850,10 +850,11 @@ INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
 OUTPUT MAURO-images.txt
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc
-OUTPUT MAURO_html.sidetoc
-INPUT ./MAURO_html.toc
 OUTPUT MAURO_html.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./foto-tapa.png
+OUTPUT MAURO_html.sidetoc
+INPUT ./MAURO_html.toc
 INPUT ./MAURO_html.toc
 INPUT ./MAURO_html.toc
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-italic.luc

@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber MAURO_html"] 1679914170 "MAURO_html.bcf" "MAURO_html.bbl" "MAURO_html" 1679927582
+["biber MAURO_html"] 1679914170 "MAURO_html.bcf" "MAURO_html.bbl" "MAURO_html" 1679933174
   "MAURO.bib" 1639184349 36983 0c31dcda6ca7e233fdd6076dad6b106e ""
-  "MAURO_html.bcf" 1679927582 143779 3e79689cf900063f40ce2708a88240e3 "lualatex"
+  "MAURO_html.bcf" 1679933174 143779 3e79689cf900063f40ce2708a88240e3 "lualatex"
   (generated)
   "MAURO_html.bbl"
   "MAURO_html.blg"
-["lualatex"] 1679927568 "MAURO_html.tex" "MAURO_html.pdf" "MAURO_html" 1679927582
+["lualatex"] 1679933160 "MAURO_html.tex" "MAURO_html.pdf" "MAURO_html" 1679933174
   "/home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmmono8-regular.luc" 1679772924 81427 c8a954a184f37af0c627859a584967ce ""
   "/home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1655127543 128397 7d25852a226138de32a380decdd26ee5 ""
   "/home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1655127542 127314 486b301f9004f60a51f79815ca3a591d ""
@@ -189,16 +189,16 @@
   "/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1650183167 10170 b1a2248f43cab899e3fe36f676176865 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1668473424 4408072 42ceaa83bae76aebad711d3f3dd7f55f ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1668473407 4561241 bea1175806f9b628cd25c8991764237a ""
-  "MAURO.tex" 1679927504 398241 4dde139dc8cd4b1df7008e3f8eb32084 ""
-  "MAURO_html.aux" 1679927581 252585 fb45f9eeff1586f4ee892ebd100ec1fd "lualatex"
+  "MAURO.tex" 1679933065 398318 61948c709db77d11e49a26b21dc0799c ""
+  "MAURO_html.aux" 1679933173 252611 0b959be47cecd71b15129a54dd171919 "lualatex"
   "MAURO_html.bbl" 1679914171 157713 2b953ed16ebedb96e1d89fb8b6a6a1d6 "biber MAURO_html"
   "MAURO_html.ind" 1679914170 4498 0c2c8689242a79d5b7a3486e46b73f38 "makeindex MAURO_html.idx"
-  "MAURO_html.run.xml" 1679927582 2596 f28c166b95c529b050662bb131cd1f31 "lualatex"
-  "MAURO_html.sidetoc" 1679927570 2469 1d11537fdc7ac508f822986f85ea36a1 "lualatex"
-  "MAURO_html.tex" 1679927506 77 95b6a97299df4440f8da74030658bce5 ""
-  "MAURO_html.toc" 1679927582 2495 49353b3f641e92e8420405ce5ac8ce9a "lualatex"
-  "comment_all.cut" 1679927568 1113 479ee4505f26ae28baecaa6f7e99e480 "lualatex"
-  "comment_html.cut" 1679927569 906 4b29acb88d082159a30911b2f72c5132 "lualatex"
+  "MAURO_html.run.xml" 1679933174 2596 f28c166b95c529b050662bb131cd1f31 "lualatex"
+  "MAURO_html.sidetoc" 1679933163 2470 634f6fb00eca09d0759f6217727717cd "lualatex"
+  "MAURO_html.tex" 1679933081 77 95b6a97299df4440f8da74030658bce5 ""
+  "MAURO_html.toc" 1679933174 2496 666403157d8aef24d6347afd3d7c0469 "lualatex"
+  "comment_all.cut" 1679933161 1113 479ee4505f26ae28baecaa6f7e99e480 "lualatex"
+  "comment_html.cut" 1679933161 906 4b29acb88d082159a30911b2f72c5132 "lualatex"
   "figura2-1.jpg" 1635273768 895541 067a68aa6210047a805c639bd9545749 ""
   "figura2x.png" 1638639443 10327 81e47ba668d1ef3bd9ed6ae0408e8877 ""
   "figura3x.png" 1638640944 14430 3cf9d9e7ab40ebf3a468d982fbfea9a6 ""
@@ -215,8 +215,8 @@
   "MAURO_html.toc"
   "comment_all.cut"
   "comment_html.cut"
-["makeindex MAURO_html.idx"] 1679914170 "MAURO_html.idx" "MAURO_html.ind" "MAURO_html" 1679927582
-  "MAURO_html.idx" 1679927582 31075 368744b18ee47b074dd3a09414e59f97 "lualatex"
+["makeindex MAURO_html.idx"] 1679914170 "MAURO_html.idx" "MAURO_html.ind" "MAURO_html" 1679933174
+  "MAURO_html.idx" 1679933174 31075 368744b18ee47b074dd3a09414e59f97 "lualatex"
   (generated)
   "MAURO_html.ilg"
   "MAURO_html.ind"

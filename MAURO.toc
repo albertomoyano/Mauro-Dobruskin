@@ -1,9 +1,9 @@
 \selectlanguage *{spanish}
-\contentsline {chapter}{Presentación}{iii}{chapter*.2}%
-\contentsline {chapter}{Legales}{vii}{chapter*.6}%
-\contentsline {chapter}{Agradecimientos}{ix}{chapter*.8}%
-\contentsline {chapter}{Pre texto}{xi}{chapter*.9}%
-\contentsline {chapter}{Introducción}{xiii}{chapter*.10}%
+\contentsline {chapter}{Presentación}{v}{chapter*.3}%
+\contentsline {chapter}{Legales}{ix}{chapter*.7}%
+\contentsline {chapter}{Agradecimientos}{xi}{chapter*.9}%
+\contentsline {chapter}{Pre texto}{xiii}{chapter*.10}%
+\contentsline {chapter}{Introducción}{xv}{chapter*.11}%
 \contentsline {chapter}{\numberline {1}Estado de la cuestión y consideraciones teórico-metodológicas}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Antecedentes sobre la temática}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Enfoque conceptual}{4}{section.1.2}%
@@ -23,6 +23,6 @@
 \contentsline {section}{\numberline {3.2}Periodización}{33}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Etapa preparatoria}{34}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Periodismo de guerra}{51}{subsection.3.2.2}%
-\contentsline {chapter}{\emph {Post Scriptum}}{117}{chapter*.45}%
-\contentsline {chapter}{Bibliografía}{119}{chapter*.46}%
-\contentsline {chapter}{Colofón}{125}{chapter*.47}%
+\contentsline {chapter}{\emph {Post Scriptum}}{117}{chapter*.46}%
+\contentsline {chapter}{Bibliografía}{119}{chapter*.47}%
+\contentsline {chapter}{Colofón}{125}{chapter*.48}%
