@@ -353,7 +353,7 @@ span.keystroke {
 
 html body {
   margin: 0 ;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 
 body div {
@@ -1296,11 +1296,15 @@ footer {
     border-top: 1px solid silver ;
     padding: .1ex 1em .1ex 1em ;
     clear:both ;
-    text-align:left ;
+    text-align: right ;
+    color:black ;
 }
 
 /* for \LinkHome, \LinkPrevious, and \LinkNext: */
-a.linkhome { font-weight:bold ; font-size: 1em ;}
+a.linkhome { font-weight:normal ;
+    font-size: .9em ;
+    font-family: "IBM Plex Sans", sans serif;
+}
 
 div.lateximagesource { padding: 0px ; margin: 0px ; display: none; }
 
