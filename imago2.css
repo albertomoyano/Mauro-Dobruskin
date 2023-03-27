@@ -41,7 +41,7 @@ div.abstract dl {line-height:1.5;}
 div.abstract dt {color:#304070;}
 
 div.abstracttitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     font-weight:bold;
     font-variant: small-caps ;
     font-size:1.5em;
@@ -52,7 +52,7 @@ div.abstracttitle{
 }
 
 span.abstractrunintitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     font-weight:bold;
 }
 
@@ -72,7 +72,7 @@ div.epigraph, div.dictum {
 }
 
 div.exampletitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     font-weight:bold;
     font-variant: small-caps ;
     border-bottom: 1px solid silver ;
@@ -88,7 +88,7 @@ div.exampletitle{
 }
 
 div.sidebartitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     font-weight:bold;
     font-variant: small-caps ;
     border-bottom: 1px solid silver ;
@@ -98,7 +98,7 @@ div.sidebartitle{
 }
 
 .fancyvrblabel {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     font-weight:bold;
     font-variant: small-caps ;
     font-size: 1.5em ;

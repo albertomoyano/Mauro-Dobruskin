@@ -6,12 +6,12 @@ A:hover {color:#400000 ; text-shadow:none ;}
 A:active {color:#C00000 ; text-shadow:none ;}
 
 body {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     background: #fffcf5;
 }
 
 span.textrm {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
 }
 
 span.textsf {
@@ -20,7 +20,7 @@ span.textsf {
 
 div.book, h1, h2, h3, h4, h5, h6, span.paragraph, span.subparagraph
 {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: #800000 ;
     text-shadow: none ;
 }
@@ -33,13 +33,13 @@ h1, h2 {
 }
 
 div.abstracttitle {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: black ;
     text-shadow: none ;
 }
 
 span.abstractrunintitle {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: black ;
     text-shadow: none ;
 }
@@ -58,7 +58,7 @@ div.abstract { font-size: 100% }
 }
 
 div.sidebartitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
@@ -75,14 +75,14 @@ div.sidebartitle{
 }
 
 div.exampletitle{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
 }
 
 div.fancyvrblabel{
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     color: #800000 ;
     text-shadow: none ;
     border: none ;
@@ -125,11 +125,11 @@ div.floatrow figure { border: none ; }
 figure figure { border: none ; }
 
 nav.toc, nav.lof, nav.lot, nav.lol {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
 }
 
 div.sidetoccontainer {
-    font-family: Georgia, serif;
+    font-family: "IBM Ples Serif", serif;
     background-image: linear-gradient(to bottom, #fffcf5, #C0C0C0);
 }
 
