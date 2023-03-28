@@ -908,9 +908,6 @@ INPUT ./MAURO_html.sidetoc
 INPUT ./MAURO_html.sidetoc
 INPUT ./MAURO_html.sidetoc
 INPUT ./MAURO_html.sidetoc
-INPUT ./MAURO_html.sidetoc
-INPUT ./MAURO_html.sidetoc
-INPUT ./MAURO_html.sidetoc
 INPUT ./MAURO_html.aux
 INPUT ./MAURO_html.run.xml
 OUTPUT MAURO_html.run.xml

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 22:16
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 22:29
  system commands enabled.
 **MAURO.tex
 (./MAURO.tex
@@ -709,12 +709,12 @@ braces):
 >  {spanish/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
-(polyglossia)            synonyms	espanol
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            hyphenation	
+(polyglossia)            loader	loadhyph-es.tex
 (polyglossia)            patterns	hyph-es.pat.txt
 (polyglossia)            righthyphenmin	2
-(polyglossia)            loader	loadhyph-es.tex on input line 13
+(polyglossia)            synonyms	espanol
+(polyglossia)            hyphenation	 on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -1472,7 +1472,7 @@ LaTeX Info: Redefining \rmfamily on input line 308.
 LaTeX Info: Redefining \sffamily on input line 308.
 LaTeX Info: Redefining \ttfamily on input line 308.
 Package polyglossia Info: totalhyphenmin:'5'.
-<foto-tapa.png, id=80, 284.06125pt x 422.57875pt>
+<foto-tapa.png, id=76, 284.06125pt x 422.57875pt>
 File: foto-tapa.png Graphic file (type png)
 <use foto-tapa.png>
 Package luatex.def Info: foto-tapa.png  used on input line 313.
@@ -1554,7 +1554,7 @@ Overfull \hbox (219.07022pt too wide) in paragraph at lines 545--570
  []
 
 [21] [22] [23] [24] [25] [26] [27]
-<figura2-1.jpg, id=502, 383.031pt x 221.8689pt>
+<figura2-1.jpg, id=497, 383.031pt x 221.8689pt>
 File: figura2-1.jpg Graphic file (type jpg)
 <use figura2-1.jpg>
 Package luatex.def Info: figura2-1.jpg  used on input line 670.
@@ -1566,14 +1566,14 @@ Package biblatex Info: Resetting trackers on input line 676.
 
 
 ] [2] [3] [4] [5] [6]
-<figura2x.png, id=640, 3417.33858pt x 662.81914pt>
+<figura2x.png, id=635, 3417.33858pt x 662.81914pt>
 File: figura2x.png Graphic file (type png)
 <use figura2x.png>
 Package luatex.def Info: figura2x.png  used on input line 782.
 (luatex.def)             Requested size: 345.0pt x 66.91284pt.
  [7<./figura2x.png>] [8] [9] [10] [11] [12] [13]
 [14] [15] [16]
-<figura3x.png, id=771, 2702.56186pt x 660.51419pt>
+<figura3x.png, id=766, 2702.56186pt x 660.51419pt>
 File: figura3x.png Graphic file (type png)
 <use figura3x.png>
 Package luatex.def Info: figura3x.png  used on input line 951.
@@ -1946,21 +1946,21 @@ LaTeX Info: Redefining \ttfamily on input line 21.
 Package polyglossia Info: totalhyphenmin:'5'.
 )
 Package rerunfilecheck Info: File `MAURO.out' has not changed.
-(rerunfilecheck)             Checksum: F0FB1BB0D6CC302564DCD1121BB50474;3619.
+(rerunfilecheck)             Checksum: 74F60D227B7E6AEBE8FDA9EDD7553FA1;3377.
 Package logreq Info: Writing requests to 'MAURO.run.xml'.
 
 \openout1 = MAURO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 28359 strings out of 477762
+ 28358 strings out of 477762
  125038,1648299 words of node,token memory allocated
  1506 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1 glyph, 96 attribute, 74 glue_spe
 c, 96 attribute_list, 1 write, 42 pdf_action nodes
    avail lists: 1:7,2:2453,3:1004,4:571,5:752,6:364,7:11697,8:156,9:809,10:40,11
 :1474,12:2
- 46882 multiletter control sequences out of 65536+600000
+ 46881 multiletter control sequences out of 65536+600000
  56 fonts using 4802511 bytes
  74i,9n,115p,5917b,2629s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman9-italic.otf></usr/share/
@@ -1975,10 +1975,10 @@ dist/fonts/opentype/public/lm/lmroman10-bolditalic.otf></usr/share/texmf-dist/fo
 nts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf-dist/fonts/opentype/
 public/lm/lmroman12-bold.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmr
 oman10-regular.otf>
-Output written on MAURO.pdf (153 pages, 1722118 bytes).
+Output written on MAURO.pdf (153 pages, 1722240 bytes).
 
-PDF statistics: 2353 PDF objects out of 2487 (max. 8388607)
- 2131 compressed objects within 22 object streams
+PDF statistics: 2349 PDF objects out of 2487 (max. 8388607)
+ 2127 compressed objects within 22 object streams
  415 named destinations out of 1000 (max. 131072)
- 153 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 145 words of extra memory for PDF output out of 10000 (max. 100000000)
 
