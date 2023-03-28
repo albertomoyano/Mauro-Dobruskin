@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 18:22
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 22:16
  system commands enabled.
 **MAURO.tex
 (./MAURO.tex
@@ -709,12 +709,12 @@ braces):
 >  {spanish/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
+(polyglossia)            synonyms	espanol
 (polyglossia)            lefthyphenmin	2
+(polyglossia)            hyphenation	
 (polyglossia)            patterns	hyph-es.pat.txt
 (polyglossia)            righthyphenmin	2
-(polyglossia)            hyphenation	
-(polyglossia)            loader	loadhyph-es.tex
-(polyglossia)            synonyms	espanol on input line 13
+(polyglossia)            loader	loadhyph-es.tex on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -1211,6 +1211,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
 )
+Package hyperref Info: Option `hyperfootnotes' set `true' on input line 4018.
 Package hyperref Info: Hyper figures OFF on input line 4137.
 Package hyperref Info: Link nesting OFF on input line 4142.
 Package hyperref Info: Hyper index ON on input line 4145.
@@ -1278,28 +1279,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip86
 )
-(/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
-Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
-Package cleveref Info: `hyperref' support loaded on input line 2370.
-LaTeX Info: Redefining \cref on input line 2370.
-LaTeX Info: Redefining \Cref on input line 2370.
-LaTeX Info: Redefining \crefrange on input line 2370.
-LaTeX Info: Redefining \Crefrange on input line 2370.
-LaTeX Info: Redefining \cpageref on input line 2370.
-LaTeX Info: Redefining \Cpageref on input line 2370.
-LaTeX Info: Redefining \cpagerefrange on input line 2370.
-LaTeX Info: Redefining \Cpagerefrange on input line 2370.
-LaTeX Info: Redefining \labelcref on input line 2370.
-LaTeX Info: Redefining \labelcpageref on input line 2370.
-)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (./MAURO.aux
-LaTeX Info: Redefining \rmfamily on input line 22.
-LaTeX Info: Redefining \sffamily on input line 22.
-LaTeX Info: Redefining \ttfamily on input line 22.
+
+(./MAURO.aux
+LaTeX Info: Redefining \rmfamily on input line 21.
+LaTeX Info: Redefining \sffamily on input line 21.
+LaTeX Info: Redefining \ttfamily on input line 21.
 Package polyglossia Info: totalhyphenmin:'5'.
 )
 \openout1 = MAURO.aux
@@ -1315,8 +1303,7 @@ LaTeX Font Info:    ... okay on input line 308.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 308.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 08.
-
-(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 308.
@@ -1485,7 +1472,7 @@ LaTeX Info: Redefining \rmfamily on input line 308.
 LaTeX Info: Redefining \sffamily on input line 308.
 LaTeX Info: Redefining \ttfamily on input line 308.
 Package polyglossia Info: totalhyphenmin:'5'.
-<foto-tapa.png, id=112, 284.06125pt x 422.57875pt>
+<foto-tapa.png, id=80, 284.06125pt x 422.57875pt>
 File: foto-tapa.png Graphic file (type png)
 <use foto-tapa.png>
 Package luatex.def Info: foto-tapa.png  used on input line 313.
@@ -1506,11 +1493,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
- [3])
+)
 \tf@toc=\write8
 
 \openout8 = MAURO.toc
- [4]
+ [3] [4
+
+]
 Package biblatex Info: Resetting trackers on input line 318.
 File: foto-tapa.png Graphic file (type png)
 <use foto-tapa.png>
@@ -1519,74 +1508,72 @@ Package luatex.def Info: foto-tapa.png  used on input line 326.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5
-
-]
+ [5]
 [6] [7] [8
 
 ]
-Package biblatex Info: Resetting trackers on input line 335.
+Package biblatex Info: Resetting trackers on input line 334.
 
-Overfull \hbox (125.25003pt too wide) in paragraph at lines 339--360
+Overfull \hbox (125.25003pt too wide) in paragraph at lines 338--359
  [] 
  []
 
 [9] [10
 
 ]
-Package biblatex Info: Resetting trackers on input line 363.
+Package biblatex Info: Resetting trackers on input line 362.
  [11] [12
 
 ]
-Package biblatex Info: Resetting trackers on input line 367.
+Package biblatex Info: Resetting trackers on input line 366.
  [13] [14
 
 ]
-Package biblatex Info: Resetting trackers on input line 375.
+Package biblatex Info: Resetting trackers on input line 374.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 379.
+(Font)              <8> on input line 378.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 379.
+(Font)              <6> on input line 378.
  [15] [16] [17]
 Underfull \vbox (badness 4403) has occurred while \output is active []
 
  [18]
 [19] [20]
-Overfull \hbox (104.08015pt too wide) in paragraph at lines 471--492
+Overfull \hbox (104.08015pt too wide) in paragraph at lines 470--491
  [] 
  []
 
 
-Overfull \hbox (217.82019pt too wide) in paragraph at lines 529--540
+Overfull \hbox (217.82019pt too wide) in paragraph at lines 528--539
  [] 
  []
 
 
-Overfull \hbox (219.07022pt too wide) in paragraph at lines 546--571
+Overfull \hbox (219.07022pt too wide) in paragraph at lines 545--570
  [] 
  []
 
 [21] [22] [23] [24] [25] [26] [27]
-<figura2-1.jpg, id=544, 383.031pt x 221.8689pt>
+<figura2-1.jpg, id=502, 383.031pt x 221.8689pt>
 File: figura2-1.jpg Graphic file (type jpg)
 <use figura2-1.jpg>
-Package luatex.def Info: figura2-1.jpg  used on input line 671.
+Package luatex.def Info: figura2-1.jpg  used on input line 670.
 (luatex.def)             Requested size: 345.0pt x 199.85281pt.
  [28<./figura2-1.jpg>]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 677.
+Package biblatex Info: Resetting trackers on input line 676.
 [1
 
 
 ] [2] [3] [4] [5] [6]
-<figura2x.png, id=682, 3417.33858pt x 662.81914pt>
+<figura2x.png, id=640, 3417.33858pt x 662.81914pt>
 File: figura2x.png Graphic file (type png)
 <use figura2x.png>
 Package luatex.def Info: figura2x.png  used on input line 782.
 (luatex.def)             Requested size: 345.0pt x 66.91284pt.
  [7<./figura2x.png>] [8] [9] [10] [11] [12] [13]
 [14] [15] [16]
-<figura3x.png, id=810, 2702.56186pt x 660.51419pt>
+<figura3x.png, id=771, 2702.56186pt x 660.51419pt>
 File: figura3x.png Graphic file (type png)
 <use figura3x.png>
 Package luatex.def Info: figura3x.png  used on input line 951.
@@ -1953,27 +1940,27 @@ The property list \__xpg_alias contains the pairs (without outer braces):
  [125
 
 ] (./MAURO.aux
-LaTeX Info: Redefining \rmfamily on input line 22.
-LaTeX Info: Redefining \sffamily on input line 22.
-LaTeX Info: Redefining \ttfamily on input line 22.
+LaTeX Info: Redefining \rmfamily on input line 21.
+LaTeX Info: Redefining \sffamily on input line 21.
+LaTeX Info: Redefining \ttfamily on input line 21.
 Package polyglossia Info: totalhyphenmin:'5'.
 )
 Package rerunfilecheck Info: File `MAURO.out' has not changed.
-(rerunfilecheck)             Checksum: 4F034077C8516205FAD0B39F4F553658;5321.
+(rerunfilecheck)             Checksum: F0FB1BB0D6CC302564DCD1121BB50474;3619.
 Package logreq Info: Writing requests to 'MAURO.run.xml'.
 
 \openout1 = MAURO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 30036 strings out of 477762
+ 28359 strings out of 477762
  125038,1648299 words of node,token memory allocated
- 1516 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1 glyph, 97 attribute, 74 glue_spe
-c, 97 attribute_list, 1 write, 43 pdf_action nodes
-   avail lists: 1:9,2:2462,3:1002,4:591,5:755,6:370,7:11697,8:156,9:809,10:40,11
+ 1506 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 52 glue, 3 kern, 1 glyph, 96 attribute, 74 glue_spe
+c, 96 attribute_list, 1 write, 42 pdf_action nodes
+   avail lists: 1:7,2:2453,3:1004,4:571,5:752,6:364,7:11697,8:156,9:809,10:40,11
 :1474,12:2
- 48546 multiletter control sequences out of 65536+600000
+ 46882 multiletter control sequences out of 65536+600000
  56 fonts using 4802511 bytes
  74i,9n,115p,5917b,2629s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman9-italic.otf></usr/share/
@@ -1988,10 +1975,10 @@ dist/fonts/opentype/public/lm/lmroman10-bolditalic.otf></usr/share/texmf-dist/fo
 nts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf-dist/fonts/opentype/
 public/lm/lmroman12-bold.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmr
 oman10-regular.otf>
-Output written on MAURO.pdf (153 pages, 1723378 bytes).
+Output written on MAURO.pdf (153 pages, 1722118 bytes).
 
-PDF statistics: 2387 PDF objects out of 2487 (max. 8388607)
- 2165 compressed objects within 22 object streams
+PDF statistics: 2353 PDF objects out of 2487 (max. 8388607)
+ 2131 compressed objects within 22 object streams
  415 named destinations out of 1000 (max. 131072)
- 217 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 153 words of extra memory for PDF output out of 10000 (max. 100000000)
 

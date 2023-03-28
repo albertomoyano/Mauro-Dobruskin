@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 18:23
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Arch Linux)  (format=lualatex 2022.11.14)  27 MAR 2023 22:18
  system commands enabled.
 **MAURO_html.tex
 (./MAURO_html.tex
@@ -1014,12 +1014,12 @@ braces):
 >  {spanish/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
 >  {spanish/totalhyphenmin}  =>  {5}.
 Module polyglossia Info: Language data for spanish
-(polyglossia)            righthyphenmin	2
-(polyglossia)            loader	loadhyph-es.tex
-(polyglossia)            lefthyphenmin	2
 (polyglossia)            synonyms	espanol
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            loader	loadhyph-es.tex
 (polyglossia)            hyphenation	
-(polyglossia)            patterns	hyph-es.pat.txt on input line 13
+(polyglossia)            patterns	hyph-es.pat.txt
+(polyglossia)            righthyphenmin	2 on input line 13
 Module polyglossia Info: Language spanish was not yet loaded; created with id 2 
 on input line 13
 Package polyglossia Info: Option: spanish, variant=spanish.
@@ -1514,6 +1514,12 @@ Package lwarp Info: Using the lwarp HTML version of package `hyperref',
 (lwarp)             do not attempt to patch lwarp's version of `hyperref'.)
 (lwarp)              on input line 25.
 )
+\LWR@userspaperwidth=\skip109
+\LWR@userspaperheight=\skip110
+\LWR@usersmarginparwidth=\skip111
+\LWR@userstextwidth=\skip112
+\LWR@userstextheight=\skip113
+
 (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-cleveref.sty
 Package lwarp Info: Using package `cleveref',
 (lwarp)             and adding lwarp modifications, including options,
@@ -1523,11 +1529,6 @@ Package: lwarp-cleveref 2018/03/27
 (/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 ))
-\LWR@userspaperwidth=\skip109
-\LWR@userspaperheight=\skip110
-\LWR@usersmarginparwidth=\skip111
-\LWR@userstextwidth=\skip112
-\LWR@userstextheight=\skip113
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
@@ -1842,33 +1843,39 @@ LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: totalhyphenmin:'5'.
 ) [114] [115] [116]
-[117] [118] [119] [120] [121] [122] [123] [124] (./MAURO_html.sidetoc
+(./MAURO_html.sidetoc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: totalhyphenmin:'5'.
-) [125]
-[126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
-[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
-[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
-[162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173]
-[174] [175] [176] [177] [178] [179] [180] [181] [182] [183] [184] [185]
-[186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
-[198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209]
-[210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221]
-[222] [223] [224] [225] [226] [227] [228] [229] [230] [231] [232] [233]
-[234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245]
-[246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256] [257]
-[258] [259] [260] [261] [262] [263] [264] [265] [266] [267] [268] [269]
-[270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281]
-[282] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293]
-[294] [295] [296] [297] [298] [299] [300] [301] [302] [303] [304] [305]
-[306] (./MAURO_html.sidetoc
+) [117] [118] [119] [120] [121] [122] [123] [124] [125]
+(./MAURO_html.sidetoc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: totalhyphenmin:'5'.
-) [307] [308] (./MAURO_html.sidetoc
+) [126] [127] [128] [129] [130] [131] [132] [133] [134]
+[135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146]
+[147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158]
+[159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
+[171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181] [182]
+[183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194]
+[195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206]
+[207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218]
+[219] [220] [221] [222] [223] [224] [225] [226] [227] [228] [229] [230]
+[231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242]
+[243] [244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254]
+[255] [256] [257] [258] [259] [260] [261] [262] [263] [264] [265] [266]
+[267] [268] [269] [270] [271] [272] [273] [274] [275] [276] [277] [278]
+[279] [280] [281] [282] [283] [284] [285] [286] [287] [288] [289] [290]
+[291] [292] [293] [294] [295] [296] [297] [298] [299] [300] [301] [302]
+[303] [304] [305] [306] [307] (./MAURO_html.sidetoc
+LaTeX Info: Redefining \rmfamily on input line 1.
+LaTeX Info: Redefining \sffamily on input line 1.
+LaTeX Info: Redefining \ttfamily on input line 1.
+Package polyglossia Info: totalhyphenmin:'5'.
+) [308] [309]
+(./MAURO_html.sidetoc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
@@ -1876,13 +1883,13 @@ Package polyglossia Info: totalhyphenmin:'5'.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [309]
-[310] [311] (./MAURO_html.sidetoc
+ [310]
+[311] [312] (./MAURO_html.sidetoc
 LaTeX Info: Redefining \rmfamily on input line 1.
 LaTeX Info: Redefining \sffamily on input line 1.
 LaTeX Info: Redefining \ttfamily on input line 1.
 Package polyglossia Info: totalhyphenmin:'5'.
-) [312] [313] [314] [315] [316] [317]
+) [313] [314] [315] [316] [317] [318]
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -1946,24 +1953,24 @@ Package logreq Info: Writing requests to 'MAURO_html.run.xml'.
 ))
 
 Here is how much of LuaTeX's memory you used:
- 30731 strings out of 477762
- 931800,1977958 words of node,token memory allocated
+ 30745 strings out of 477762
+ 745460,1977958 words of node,token memory allocated
  528 words of node memory still in use:
    2 hlist, 1 rule, 3 kern, 1 glyph, 2 attribute, 81 glue_spec, 2 attribute_list
  nodes
-   avail lists: 1:12,2:11638,3:4564,4:608,5:1836,6:659,7:84878,8:1,9:3732,10:62,
-11:6441,12:2
- 48963 multiletter control sequences out of 65536+600000
+   avail lists: 1:12,2:11538,3:4540,4:608,5:1808,6:662,7:84097,8:1,9:3713,10:62,
+11:6354,12:2
+ 48970 multiletter control sequences out of 65536+600000
  20 fonts using 1376271 bytes
- 104i,5n,148p,5941b,2629s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,6n,148p,5941b,2629s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-bold.otf></usr/share/te
 xmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf></usr/share/texmf-dist/fon
 ts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf-dist/fonts/opentype
 /public/lm/lmmono8-regular.otf>
-Output written on MAURO_html.pdf (317 pages, 666788 bytes).
+Output written on MAURO_html.pdf (318 pages, 668565 bytes).
 
-PDF statistics: 1026 PDF objects out of 1200 (max. 8388607)
- 688 compressed objects within 7 object streams
+PDF statistics: 1029 PDF objects out of 1200 (max. 8388607)
+ 690 compressed objects within 7 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

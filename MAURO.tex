@@ -280,14 +280,14 @@ uniquelist=minyear]{biblatex}%autolang=hyphen
 \makeindex
 \usepackage{xcolor}
 \usepackage{graphicx}
-\usepackage{hyperref,cleveref}  % LOAD THESE LAST!
+\usepackage[hyperfootnotes=true]{hyperref}%,cleveref}  % LOAD THESE LAST!
 
 % --- LATEX AND HTML CUSTOMIZATION ---
 
 % --- LATEX AND HTML CUSTOMIZATION ---
 \title{}
 \author{Mauro Dobruskin}
-\setcounter{tocdepth}{2}        % Include subsections in the \TOC.
+\setcounter{tocdepth}{1}        % Include subsections in the \TOC.
 \setcounter{secnumdepth}{2}     % Number down to subsections.
 \setcounter{FileDepth}{1}       % Split \HTML\ files at sections
 \booltrue{CombineHigherDepths}  % Combine parts/chapters/sections
@@ -327,7 +327,6 @@ Entre los años 2009 y 2015, el debate entre periodistas sobre el periodismo y e
 \caption*{Tapa de la versión impresa.}
 \end{figure}
 
-
 \section*{Sobre el autor}
 
 \textbf{Mauro Dobruskin} es licenciado en Ciencias Antropológicas por la Universidad de Buenos Aires, ha desarrollado diversas actividades de gestión de la comunicación, en el ámbito público y privado. Realizó diversos estudios de posgrado en políticas sanitarias y de comunicación. Actualmente, dirige el Departamento de la Carrera de Edición en la Facultad de Filosofía y Letras (UBA) donde se desempeña como profesor adjunto a cargo de la cátedra Edición de Publicaciones Periódicas.
@@ -362,7 +361,7 @@ Tirada: & 100 ejemplares \\
 
 \chapter{Agradecimientos}
 
-A los docentes de la Maestría y en particular a Nadia Koziner, por haberme devuelto la alegría de estudiar. A Julio Moyano que compartió sus conocimientos, experiencia y amistad para que este trabajo llegara a su fin. A Martín Güelman por su paciencia y dedicación en la corrección de los avances. A Esther Jodice, por haberme acompañado en lo mejor de mi vida
+A los docentes de la Maestría y en particular a Nadia Koziner, por haberme devuelto la alegría de estudiar. A Julio Moyano que compartió sus conocimientos, experiencia y amistad para que este trabajo llegara a su fin. A Martín Güelman por su paciencia y dedicación en la corrección de los avances. A Esther Jodice, por haberme acompañado en lo mejor de mi vida.
 
 \chapter{Pre texto}
 
@@ -767,6 +766,7 @@ En tal sentido, creemos que el estudio del campo periodístico, al ser transvers
 	Un campo --podría tratarse del campo científico-- se define, entre otras cosas, definiendo aquello que está en juego y los intereses específicos que son irreductibles a los objetos en juego, y a los intereses propios de otros campos o a sus intereses propios (no será posible atraer a un filósofo con lo que es motivo de disputa entre geógrafos) y que no son percibidos por nadie que no haya sido construido para entrar en el campo (cada categoría de intereses implica indiferencia hacia otros intereses), otras inversiones que serán percibidos como absurdos, irracionales, o sublimes y desinteresados \parencite[135]{Bourdieu2008}.
 \end{quote}
 
+
 \subsection{La credibilidad}
 
 La primera cuestión que abordaremos es ¿qué está en juego? O bien: ¿qué intereses específicos están en juego? Así como Max Weber caracteriza a la Iglesia como aquella institución que detenta el monopolio de la manipulación de los bienes de salvación, podemos afirmar que el campo periodístico detenta el monopolio de la producción de actualidad. En tal sentido, sostenemos, de manera hipotética, que el campo periodístico disputa por el capital de la credibilidad, sostenida sobre tres ejes: independencia, libertad de expresión y establecimiento de lo que debe ser considerado significativo (la agenda de actualidad).
@@ -1166,7 +1166,7 @@ Si bien esta categoría de \emph{periodista intelectual}, como el resto de las c
 
 El análisis de la producción ensayística ordenado en el tiempo permitirá apreciar el encadenamiento del debate dentro del campo periodístico y, simultáneamente, la existencia de relaciones causales entre los actores del conflicto, en algunos casos motivados por sus casas periodísticas y, en otros, por el fragor de las batallas políticas.
 
-\section*{Universo de los libros considerados}
+\section{Universo de los libros considerados}
 
 \nocite{Asis2011,
 	Majul2012,
